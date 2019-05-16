@@ -1,2 +1,2 @@
-# Techweek2019
-Arquivos utilizados na apresentação na Techweek 2019 na FATEC Franca
+# Introdução ao desenvolvimento Web em Genexus: O poder de fazer
+O objetivo deste repositório é guardar o arquivo de PowerPoint utilizado na apresentação na Techweek 2019, além de disponibilizar alguns links úteis no trabalho com GeneXus.
