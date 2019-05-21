@@ -1,1 +1,5 @@
 Vídeo "O que é GeneXus": https://www.youtube.com/watch?v=nONdyzCyKoE
+
+
+>> Classe CSS pra remover ErrorViewer extra
+classeNula, div.gx-ct-body div span.gx_ev.ErrorViewerBullet
