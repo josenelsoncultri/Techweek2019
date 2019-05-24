@@ -20,6 +20,8 @@ http://wiki.genexus.com/commwiki/servlet/hwiki?Data+types+of+attributes+in+the+D
 Attribute and Variable Data types mapping by Generator (mapeamento entre tipo de dados no GeneXus e o tipo de dados na linguagem destino)
 https://wiki.genexus.com/commwiki/servlet/wiki?21392,Attribute+and+Variable+Data+types+mapping+by+Generator,
 
+Boas práticas de programação em Genexus
+https://wiki.genexus.com/commwiki/servlet/wiki?7698,Boas+pr%C3%A1ticas+de+programa%C3%A7%C3%A3o+em+Genexus++-+Portugu%C3%AAs
 
 ### Download do GeneXus Trial
 É possível baixar o GeneXus Trial diretamente  no site da ARTech através do seguinte link: https://www.genexus.com/pt/produtos/genexus/experimente-genexus
